@@ -1,0 +1,2 @@
+Neo67_via2是用的现有的ID
+rgbtest的Hex是默认为彩虹模试
